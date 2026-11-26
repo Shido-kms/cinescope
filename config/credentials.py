@@ -1,0 +1,1 @@
+SUPER_ADMIN_CREDS = ("api1@gmail.com", "asdqwe123Q")
